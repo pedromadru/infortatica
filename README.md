@@ -1,3 +1,3 @@
-#Primeira liçao github 
-#informatica
+# Primeira liçao github 
+# informatica
 Adicionado arquivo de apresentaçao
